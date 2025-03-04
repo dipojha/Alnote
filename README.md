@@ -1,6 +1,6 @@
-# AlNote 📚
+# Alnote 📚
 
-**AlNote** is a web-based platform designed to simplify the sharing, buying, and selling of study notes in PDF format. It provides students with an organized and efficient way to access educational resources while maintaining a user-friendly interface. The platform operates on a subscription-based model, offering both free and premium features for enhanced accessibility.
+**Alnote** is a web-based platform designed to simplify the sharing, buying, and selling of study notes in PDF format. It provides students with an organized and efficient way to access educational resources while maintaining a user-friendly interface. The platform operates on a subscription-based model, offering both free and premium features for enhanced accessibility.
 
 ## Features
 - Upload, share, and access study notes.
