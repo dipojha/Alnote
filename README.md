@@ -10,10 +10,10 @@
 - Secure and structured educational resource distribution.
 
 ## Code Availability
-🔒 The source code for **AlNote** is private and not publicly available.
+🔒 The source code for **Alnote** is private and not publicly available.
 
 ## Live Demo
-🌐 You can explore the platform here: [AlNote Demo](https://alnote.netlify.app/)
+🌐 You can explore the platform here: [Alnote Demo](https://alnote.netlify.app/)
 
 ## License
 This project is proprietary and not open source.
